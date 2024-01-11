@@ -45,11 +45,8 @@ Sebelum Anda mulai menggunakan Git, konfigurasikan nama pengguna dan alamat emai
 
 ![7 copy](https://github.com/winda221120/github./assets/156057207/060d2d2a-8e88-4410-96de-a1031f1a4d55)
 
-## 9. Kirim Perubahan ke Repository Jarak Jauh (Remote):
 
-![8 copy](https://github.com/winda221120/github./assets/156057207/2b0a8de5-2bb1-4663-9e4a-ffe3a5ea5025)
-
-## 11. Perbarui dan Gabungkan Perubahan Lokal:
+## 10. Perbarui dan Gabungkan Perubahan Lokal:
 
 ![9 copy](https://github.com/winda221120/github./assets/156057207/6d68bcda-91f8-4021-bd9c-25adfca51376)
 
