@@ -1,4 +1,4 @@
-# cara menngunakan markdown
+# cara menggunakan markdown
 
 Berikut adalah beberapa cara dasar menggunakan Markdown:
 
